@@ -13,8 +13,8 @@
     background-repeat: no-repeat;
 }
 .img_electtrician{
-background-image: url('../images/billionphotos1079319min.png');
-background-size: cover;
-background-position: initial;
-background-repeat: no-repeat;
+    background-image: url(../images/billionphotos1079319min.png);
+    background-size: cover;
+    background-position: initial;
+    background-repeat: no-repeat;
 }
